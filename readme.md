@@ -5,11 +5,22 @@ LICENSE: [MIT](license.md)
 ![git logo](Git-logo.svg)
 ___
 
-### Содержание:
+## Содержание:
 
-1. Что-то
-2. [git add](add.md)
+1. Введение
+    * [Что такое GIT, как, когда и кем он был создан](what_is_git.md)
+    * [Установка GIT](install_git.md)
+    * [Настройка GIT](settings_git.md)
+    * [Как прочитать справку по GIT](help-git.md)
+2. Начало работы с GIT
+    
+    * [Создание GIT репозитория](creating_git_repository.md)
+    * [Запись изменений в репозиторий](changes_repository.md)
+    * [Игнорирование файлов](file-gitignore.md)
+    * [Просмотр истории коммитов, основные опции команды git log](watch-history.md)
+    * 
 ___
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos
 license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+
