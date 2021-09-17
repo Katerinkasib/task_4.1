@@ -29,6 +29,7 @@ ___
    * [Управление ветками](branch-management.md)
    * [Работа с ветками](branching-workflows.md)
    * [Простейшее перебазирование](basic-rebasing.md)
+
 ___
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos
